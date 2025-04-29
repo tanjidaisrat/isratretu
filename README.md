@@ -1,12 +1,10 @@
-# isratretu
-
 <h1 align="center">Hi there, I'm Israt Jahan Retu! 👋</h1>
 
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Excel | Tableau</h3>
 
 <p align="center">
-  <a href="your-linkedin-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/isratjahanretu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:isratjahanretu.bd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -36,22 +34,23 @@
 
 | Project | Description | Tools |
 |:---|:---|:---|
-| [Air Pollution and Health Analysis](link-to-project-folder) | Analyzing air pollution impact on respiratory health using SQL & Python. | SQL, Python, Tableau |
-| [Sales Data Analysis](link-to-project-folder) | Identified top products and regional sales trends. | SQL, Excel |
-| [Consumer Sentiment vs Market Trends](link-to-project-folder) | Scraped Twitter data to correlate sentiment with stock market changes. | Python, Data Scraping |
+| [Air Pollution and Health Analysis](https://github.com/isratretu/air-pollution-health-analysis) | Analyzing air pollution impact on respiratory health using SQL & Python. | SQL, Python, Tableau |
+| [Sales Data Analysis](https://github.com/isratretu/sales-data-analysis) | Identified top products and regional sales trends. | SQL, Excel |
+| [Consumer Sentiment vs Market Trends](https://github.com/isratretu/consumer-sentiment-market-trends) | Scraped Twitter data to correlate sentiment with stock market changes. | Python, Data Scraping |
 
 ---
 
 ## 📜 Certifications
-- [Google Data Analytics Professional Certificate](link-if-available)
-- [SQL for Data Science (Coursera)](link-if-available)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [SQL for Data Science (Coursera)](https://www.coursera.org/learn/sql-for-data-science)
 
 ---
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](your-linkedin-link)
-- 📧 Email: your-email@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isratjahanretu/)
+- 📧 Email: isratjahanretu.bd@gmail.com
+- 🌐 GitHub: [https://github.com/isratretu](https://github.com/isratretu)
 
 ---
 

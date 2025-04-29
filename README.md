@@ -48,9 +48,9 @@
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isratjahanretu/)
-- 📧 Email: isratjahanretu.bd@gmail.com
-- 🌐 GitHub: [https://github.com/isratretu](https://github.com/isratretu)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
+- 📧 Email: tanjidaisratr@gmail.com
+- 🌐 GitHub: [https://github.com/isratretu](https://github.com/tanjidaisrat)
 
 ---
 

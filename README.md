@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isratjahanretu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:isratjahanretu.bd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:tanjidaisratr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -48,9 +48,9 @@
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isratjahanretu/)
 - 📧 Email: tanjidaisratr@gmail.com
-- 🌐 GitHub: [https://github.com/isratretu](https://github.com/tanjidaisrat)
+- 🌐 GitHub: [https://github.com/isratretu](https://github.com/isratretu)
 
 ---
 
@@ -65,17 +65,4 @@
 ## 🌍 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratretu&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 👁️‍🗨️ Visitors Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/isratretu/count.svg" alt="Visitors Counter"/>
-</p>
-
----
-
-> *"Data is the heartbeat of decision-making — let's decode it together!"*
+  <img src="https://github-readme-stats.vercel.app/api/top-langs
